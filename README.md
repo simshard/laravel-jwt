@@ -2,7 +2,7 @@
 
 simple Laravel API using JWT authentication
 
-##API Routes
+##API Routes##
 **public**
 - post  /api/register
 - post  /api/login
